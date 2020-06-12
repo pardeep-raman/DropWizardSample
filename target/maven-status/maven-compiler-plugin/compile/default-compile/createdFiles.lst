@@ -1,0 +1,15 @@
+com/dropwizardsample/DropWizardSampleApplication.class
+com/dropwizardsample/DropWizardSampleConfiguration.class
+com/dropwizardsample/resources/PersonResource.class
+com/dropwizardsample/model/Person.class
+com/dropwizardsample/client/PersonBasicAuthenticator$1.class
+com/dropwizardsample/resources/HelloWorldResource.class
+com/dropwizardsample/health/healthcheck/TemplateHealthCheck.class
+com/dropwizardsample/client/User.class
+com/dropwizardsample/model/Saying.class
+com/dropwizardsample/client/PersonBasicAuthenticator.class
+com/dropwizardsample/client/PersonAuthorizer.class
+com/dropwizardsample/client/PersonOathAuthenticator$1.class
+com/dropwizardsample/utils/ResponseUtil.class
+com/dropwizardsample/db/PersonDao.class
+com/dropwizardsample/client/PersonOathAuthenticator.class
